@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="python2" size="10.000000 10.000000" />
+    <ImageTarget name="golang2" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
